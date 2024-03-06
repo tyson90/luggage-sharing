@@ -1,8 +1,48 @@
-System share’owania walizek. 
-Bo w sumie mało kto potrzebuje jej non stop. A jak jest potrzebna nawet raz na rok lub rzadziej, to człowiek musi kupić sobie za niemałe pieniądze.
-A tak, wypożyczający płaciłby ułamek jej ceny właścicielowi, z kolei ten zarabiałby na walizce w czasie kiedy jej nie używa.
-Dodatkowym plusem jest że za każdym razem można sobie dobrać rozmiar i inne cechy walizki pod konkretny wyjazd.
-Plus można oprzeć na tej bazie biznes polegający na wypożyczaniu walizek (samemu lub zachęcić inne osoby/firmy).
-Można też dodać opcje zakupu: zarówno te używane, jak i całkiem nowe.
-I ewentualnie dodatkowe usługi czy dodatki do walizek (np. wymiana kółek na solidne duże, o których już dawno myślałem, naprawy, kłódki).
-Jako wsparcie logistyczne można upatrywać w sieciach przewozu osób i dostarczania jedzenia typu Bolt, Uber, Glovo, Wolt, etc.
+# Nazwa Aplikacji: Luggage Sharing
+
+## Opis:
+Luggage Sharing to innowacyjna platforma umożliwiająca użytkownikom dzielenie się walizkami w prosty i ekonomiczny sposób. Celem aplikacji jest wyeliminowanie konieczności zakupu drogich walizek, które są używane tylko sporadycznie, poprzez umożliwienie ich wynajmu od innych użytkowników.
+
+## Zasady Działania:
+
+### 1. Rejestracja i Profil Użytkownika:
+- Użytkownik tworzy konto na platformie, podając swoje dane osobowe oraz preferencje dotyczące walizek.
+- Każdy użytkownik ma swój profil, gdzie może zarządzać swoimi ofertami i zapytaniami dotyczącymi wynajmu walizek.
+
+### 2. Dodawanie i Wynajem Walizek:
+- Użytkownicy mogą dodawać swoje walizki do platformy, określając ich rozmiar, cechy oraz stawkę za wynajem.
+- Innym użytkownikom umożliwia się przeglądanie ofert walizek dostępnych do wynajęcia w ich lokalizacji.
+- Proces wynajmu odbywa się online, gdzie użytkownicy mogą ustalać szczegóły dotyczące terminu odbioru i zwrotu.
+
+### 3. Płatność i Zarobek:
+- Wynajmujący płaci ustaloną stawkę za wynajem walizki, która jest ułamkiem ceny zakupu.
+- Właściciel walizki zarabia na jej wynajmie w czasie, kiedy sam jej nie używa.
+
+### 4. Opcje Zakupu:
+- Oprócz wynajmu, użytkownicy mogą również kupować używane lub nowe walizki dostępne na platformie.
+
+### 5. Dodatkowe Usługi:
+- Platforma oferuje dodatkowe usługi, takie jak naprawy, wymiana kółek czy dodatki do walizek.
+- Możliwość korzystania z usług partnerskich, takich jak sieci przewozu osób i dostarczania jedzenia, w celu ułatwienia logistyki związanej z przemieszczaniem się walizek.
+
+## Struktura Aplikacji:
+
+### 1. Strona Główna:
+- Prezentacja dostępnych walizek do wynajęcia oraz ofert zakupu.
+- Informacje o dodatkowych usługach i możliwościach dostosowania walizki do własnych potrzeb.
+
+### 2. Profil Użytkownika:
+- Zarządzanie ofertami wynajmu i walizek do sprzedaży.
+- Historia transakcji i opinie od użytkowników.
+
+### 3. Wyszukiwanie i Filtry:
+- Możliwość wyszukiwania walizek według lokalizacji, rozmiaru, cech oraz dostępności.
+
+### 4. Proces Wynajmu:
+- Interaktywny proces rezerwacji i płatności.
+- Komunikacja między wynajmującym a wynajmującym w celu ustalenia szczegółów transakcji.
+
+### 5. Dodatkowe Usługi:
+- Sekcja poświęcona dodatkowym usługom i partnerskim ofertom.
+
+Dzięki Luggage Sharing, użytkownicy mogą korzystać z walizek tylko wtedy, kiedy są im one potrzebne, oszczędzając pieniądze i przyczyniając się do zrównoważonego korzystania z zasobów.
