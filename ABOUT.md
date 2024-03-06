@@ -22,8 +22,8 @@ Luggage Sharing to innowacyjna platforma umożliwiająca użytkownikom dzielenie
 - Oprócz wynajmu, użytkownicy mogą również kupować używane lub nowe walizki dostępne na platformie.
 
 ### 5. Dodatkowe Usługi:
-- Platforma oferuje dodatkowe usługi, takie jak naprawy, wymiana kółek czy dodatki do walizek.
-- Możliwość korzystania z usług partnerskich, takich jak sieci przewozu osób i dostarczania jedzenia, w celu ułatwienia logistyki związanej z przemieszczaniem się walizek.
+- Platforma oferuje dodatkowe usługi, takie jak naprawy, wymiana kółek, zamki czy inne dodatki do walizek.
+- Możliwość korzystania z usług partnerskich (np. Bolt, Uber, Wolt, Glovo, InPost, etc.) w celu ułatwienia logistyki związanej z przemieszczaniem się walizek.
 
 ## Struktura Aplikacji:
 
@@ -40,9 +40,9 @@ Luggage Sharing to innowacyjna platforma umożliwiająca użytkownikom dzielenie
 
 ### 4. Proces Wynajmu:
 - Interaktywny proces rezerwacji i płatności.
-- Komunikacja między wynajmującym a wynajmującym w celu ustalenia szczegółów transakcji.
+- Komunikacja między wynajmującym a wynajmującym w razie konieczności ustalenia dodatkowych szczegółów.
 
 ### 5. Dodatkowe Usługi:
 - Sekcja poświęcona dodatkowym usługom i partnerskim ofertom.
 
-Dzięki Luggage Sharing, użytkownicy mogą korzystać z walizek tylko wtedy, kiedy są im one potrzebne, oszczędzając pieniądze i przyczyniając się do zrównoważonego korzystania z zasobów.
+Dzięki Luggage Sharing, użytkownicy mogą korzystać z walizek tylko wtedy, kiedy są im one potrzebne, oszczędzając pieniądze i przyczyniając się do zrównoważonego korzystania z zasobów, co przełoży się jednocześnie do zmniejszenia konsumpcji (zakup walizek) a zatem będzie miało pozytywny wpływ na środowisko.
