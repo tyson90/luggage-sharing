@@ -2,8 +2,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # About
 
-[Check the project description (EN)](ABOUT-en.md)
-[Polish version](ABOUT-pl.md)
+* [Check the project description (EN)](ABOUT-en.md)
+* [Polish version](ABOUT-pl.md)
 
 # Getting Started
 
