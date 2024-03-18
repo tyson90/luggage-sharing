@@ -10,8 +10,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@react-navigation/native": "^6.1.15",
-    "axios": "^1.6.7",
+    "@react-navigation/native": "^6.1.17",
+    "axios": "^1.6.8",
     "nativewind": "^2.0.11",
     "react": "18.2.0",
     "react-native": "0.73.5",
@@ -26,7 +26,7 @@
     "@react-native/eslint-config": "0.73.2",
     "@react-native/metro-config": "0.73.5",
     "@react-native/typescript-config": "0.73.1",
-    "@types/react": "^18.2.64",
+    "@types/react": "^18.2.67",
     "@types/react-test-renderer": "^18.0.7",
     "babel-jest": "^29.7.0",
     "eslint": "^8.57.0",
