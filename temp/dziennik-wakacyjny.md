@@ -3,6 +3,7 @@
 - 16 kwietnia 2024: zwiedzanie Neapola w dzień;
 - 17 kwietnia 2024: jedziemy do Scalea;
 - 18 kwietnia 2024: c.d. Scalea (na Diamante nie było pogody);
-- 19 kwietnia 2024: dziś prawdopodobnie muzeum kolei;
+- 19 kwietnia 2024: muzeum kolei;
+- 20 kwietnia 2024: Pompeje;
 
 (a Wezuwjusz jednak w niedzielę)
