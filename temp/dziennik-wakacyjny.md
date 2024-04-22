@@ -5,4 +5,5 @@
 - 18 kwietnia 2024: c.d. Scalea (na Diamante nie było pogody);
 - 19 kwietnia 2024: muzeum kolei;
 - 20 kwietnia 2024: Pompeje;
-- 22 kwietnia 2024: Wezuwiusz;
+- 21 kwietnia 2024: Wezuwiusz;
+- 22 kwietnia 2024: powrót do Polski...
