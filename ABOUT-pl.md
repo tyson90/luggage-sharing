@@ -1,6 +1,7 @@
 # Nazwa Aplikacji: Luggage Sharing
 
 ## Opis:
+
 Luggage Sharing to innowacyjna platforma umożliwiająca użytkownikom dzielenie się walizkami w prosty i ekonomiczny sposób. Celem aplikacji jest wyeliminowanie konieczności zakupu drogich walizek, które są używane tylko sporadycznie, poprzez umożliwienie ich wynajmu od innych użytkowników.
 
 ## Zasady Działania:
