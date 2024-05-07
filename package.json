@@ -21,9 +21,9 @@
     "react-native-splash-screen": "^3.3.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.4",
-    "@babel/preset-env": "^7.24.4",
-    "@babel/runtime": "^7.24.4",
+    "@babel/core": "^7.24.5",
+    "@babel/preset-env": "^7.24.5",
+    "@babel/runtime": "^7.24.5",
     "@react-native/babel-preset": "0.73.21",
     "@react-native/eslint-config": "0.73.2",
     "@react-native/metro-config": "0.73.5",
