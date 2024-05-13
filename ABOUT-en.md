@@ -1,6 +1,7 @@
 # Application Name: Luggage Sharing
 
 ## Description:
+
 Luggage Sharing is an innovative platform that enables users to share suitcases in a simple and economical way. The application's aim is to eliminate the need to purchase expensive suitcases that are only used sporadically by allowing users to rent them from others.
 
 ## Operation Principles:
